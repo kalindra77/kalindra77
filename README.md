@@ -14,7 +14,7 @@ Exploring threat patterns, investigating incidents, and strengthening security p
 * 🛡️ Blue Team operations & defensive security
 * 🧪 Disk, memory, and log forensics
 * 🚨 Incident response analysis & workflow
-* 📡 Network security fundamentals
+* 📡 Network security
 * 📊 SOC monitoring, alert triage, and threat hunting
 * 🐧 Daily Linux user
 
@@ -23,7 +23,7 @@ Exploring threat patterns, investigating incidents, and strengthening security p
 ## 🧰 **Tools & Technologies**
 
 **Security / DFIR:**
-`Wireshark` • `Volatility` • `Autopsy` • `The Sleuth Kit` • `Suricata` • `ELK Stack` • `Metasploit`
+`Wireshark` • `Volatility` • `Autopsy` • `The Sleuth Kit` • `Suricata` • `Wazuh` • `Metasploit`
 
 **Networking:**
 `tcpdump` • `nmap` • `iptables / nftables`
