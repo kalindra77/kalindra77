@@ -1,7 +1,3 @@
-Berikut versi yang **lebih natural, tanpa kesan tulisan AI**, dan tetap profesional:
-
----
-
 # 👋 Hi, I'm Kalindra
 
 Cybersecurity Enthusiast | Blue Team | DFIR | SOC Operations
