@@ -25,15 +25,11 @@ Exploring threat patterns, investigating incidents, and strengthening security p
 **Security / DFIR:**
 `Wazuh` • `Suricata` • `Wireshark` • `Autopsy` • `The Sleuth Kit` • `Volatility`
 
-**Networking:**
-`tcpdump` • `nmap` • `iptables / nftables`
-
 **Systems:**
 `Linux` • `Kali` • `Ubuntu`
 
 **Scripting:**
-`Python` (automation & analysis)
-`Bash Shell Scripting`
+`Python` • `Bash`
 
 ---
 
