@@ -3,7 +3,7 @@
 Cybersecurity Enthusiast | Blue Team | DFIR | SOC Operations
 
 I'm passionate about cybersecurity with a strong focus on **Blue Team operations**, particularly **Digital Forensics & Incident Response (DFIR)**.
-I work comfortably in **Linux environments** and have experience with network security, log analysis, and SOC workflows.
+I work comfortably in **Linux environments** and have hands-on experience with network security, log analysis, and SOC workflows.
 
 Exploring threat patterns, investigating incidents, and strengthening security posture are areas I truly enjoy.
 
@@ -33,13 +33,14 @@ Exploring threat patterns, investigating incidents, and strengthening security p
 
 **Scripting:**
 `Python` (automation & analysis)
+`Bash Shell Scripting`
 
 ---
 
 ## 🎯 **Interests**
 
-* Threat hunting
-* Forensic investigations
+* Digital forensics & Incident response (DFIR)
+* Threat hunting & detection
 * OSINT & social engineering
 * Attack detection & anomaly analysis
-* System and network hardening
+* System and network security 
